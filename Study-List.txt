@@ -3,4 +3,4 @@ STUDY LIST
 2.Python
 3.Android
 4.Kotlin
-5.Javascript
+5.Android Studio
