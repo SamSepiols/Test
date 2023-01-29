@@ -7,5 +7,4 @@ STUDY LIST
 6.C
 7.C++
 8.C#
-9.Flutter
-10.Database
+9.Database
