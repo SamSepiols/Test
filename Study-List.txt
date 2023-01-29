@@ -4,3 +4,7 @@ STUDY LIST
 3.Android
 4.Kotlin
 5.Android Studio
+6.C
+7.C++
+8.C#
+9.Database
